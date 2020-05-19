@@ -214,6 +214,7 @@ PRODUCT_PACKAGE_OVERLAYS += \
 PRODUCT_PACKAGES += \
     CustomFontPixelLauncherOverlay \
     DocumentsUIOverlay \
+    NavigationBarNoHintOverlay \
     NetworkStackOverlay
 
 # Translations
